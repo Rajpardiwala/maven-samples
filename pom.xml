@@ -18,5 +18,12 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+         <distributionManagement>
+	
+		<repository>
+			<id>release</id>
+			<name>Raj_host-Snapshot</name>
+			<url>http://localhost:8081/repository/Raj_host-Snapshot/</url>
+		</repository>
 
 </project>
