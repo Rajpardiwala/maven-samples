@@ -21,9 +21,9 @@
          <distributionManagement>
 	
 		<repository>
-			<id>release</id>
-			<name>Raj_host-Snapshot</name>
-			<url>http://localhost:8081/repository/Raj_host-Snapshot/</url>
+			<id>snapshots</id>
+			<name>maven-snapshots</name>
+			<url>http://localhost:8081/repository/maven-snapshots/</url>
 		</repository>
 		</distributionManagement>
 
