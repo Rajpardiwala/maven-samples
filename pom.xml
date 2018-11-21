@@ -20,7 +20,7 @@
   </prerequisites>
          <distributionManagement>
 			<repository>
-			<id>snapshots</id>
+			<id>nexus</id>
 			<name>maven-snapshots</name>
 			<url>http://localhost:8081/repository/maven-snapshots/</url>
 		</repository>
